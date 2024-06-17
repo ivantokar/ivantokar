@@ -1,1 +1,1 @@
-`ivan tokar` 🖖 🚀 🎸 🤘 `software engineer`
+`ivan tokar` 🖖 🚀 🎸 🤘 🇺🇦 `software engineer`
