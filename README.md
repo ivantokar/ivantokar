@@ -1,10 +1,13 @@
-# Swift for server-side, CLI, and developer tooling
+# Swift for apps, server-side, CLI, and developer tooling
 
-Open-source tools built with Swift.
+I build and maintain open-source projects focused on practical Swift usage.
 
-My work focuses on practical use of Swift across server-side services,
-command-line applications, and developer tooling. I apply Swift where
-its type system, performance, and tooling are a good fit.
+My work centers on applying Swift where its type system, performance, and tooling
+provide clear advantages — across application code, server-side services,
+command-line tools, and developer workflows.
+
+The emphasis is on real-world code: maintainable, expressive, and suitable for
+long-lived projects.
 
 ## Selected Projects
 
@@ -12,18 +15,18 @@ its type system, performance, and tooling are a good fit.
 Image processing and tooling written in Swift.  
 Focused on non-UI workloads and server-side use cases.
 
-https://github.com/ivantokar/hokusai
-https://github.com/ivantokar/hokusai-vapor
+https://github.com/yourname/hokusai
 
 ### xmap.nvim
-A Neovim plugin written in Lua, focused on Swift code navigation,
+A Neovim plugin written in Lua, focused on Swift code navigation,  
 with support for additional languages such as TypeScript and Markdown.
 
-https://github.com/ivantokar/xmap.nvim
+https://github.com/yourname/xmap.nvim
 
 ## Direction
 
-My work centers on practical Swift usage for tooling and systems.
-I build quality-of-life tools for solo developers, based on my own workflows.
+I focus on practical Swift usage for tooling and systems,
+building quality-of-life tools for solo developers and small teams,
+based on my own workflows.
 
-Neovim is where most of this work happens.
+Most of this work happens in Neovim.
