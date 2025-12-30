@@ -11,18 +11,13 @@ long-lived projects.
 
 ## Selected Projects
 
-### Hokusai
+### [Hokusai](https://github.com/ivantokar/hokusai), [HokusaiVapor](https://github.com/ivantokar/hokusai-vapor)
 Image processing and tooling written in Swift.  
 Focused on non-UI workloads and server-side use cases.
 
-https://github.com/ivantokar/hokusai
-https://github.com/ivantokar/hokusai-vapor
-
-### xmap.nvim
+### [xmap.nvim](https://github.com/ivantokar/xmap.nvim)
 A Neovim plugin written in Lua, focused on Swift code navigation,  
 with support for additional languages such as TypeScript and Markdown.
-
-https://github.com/ivantokar/xmap.nvim
 
 ## Direction
 
