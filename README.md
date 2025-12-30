@@ -15,13 +15,14 @@ long-lived projects.
 Image processing and tooling written in Swift.  
 Focused on non-UI workloads and server-side use cases.
 
-https://github.com/yourname/hokusai
+https://github.com/ivantokar/hokusai
+https://github.com/ivantokar/hokusai-vapor
 
 ### xmap.nvim
 A Neovim plugin written in Lua, focused on Swift code navigation,  
 with support for additional languages such as TypeScript and Markdown.
 
-https://github.com/yourname/xmap.nvim
+https://github.com/ivantokar/xmap.nvim
 
 ## Direction
 
