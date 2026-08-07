@@ -21,25 +21,25 @@ Simplicity, good UX & DX. Always building something.
 
 ## Start Here
 
-##### [Hokusai](https://github.com/ivantokar/hokusai)
+**[Hokusai](https://github.com/ivantokar/hokusai)**
 High-performance image processing for Swift, powered by libvips.
 Originally built to solve a production need and now developed as a standalone Swift library and CLI.
 
-##### [HokusaiVapor](https://github.com/ivantokar/hokusai-vapor)
+**[HokusaiVapor](https://github.com/ivantokar/hokusai-vapor)**
 Vapor integration for Hokusai and server-side image processing workflows.
 
-##### [xmap.nvim](https://github.com/ivantokar/xmap.nvim)
+**[xmap.nvim](https://github.com/ivantokar/xmap.nvim)**
 A fast minimap for Neovim focused on code navigation, symbols,
 structural highlights, comments, markers, and jump navigation.
 
-##### [Mage](https://github.com/ivantokar/mage)
+**[Mage](https://github.com/ivantokar/mage)**
 Project scaffolding and architecture tooling for server-side Swift,
 with a focus on DDD, developer experience, and repeatable project setup.
 
-##### [SwiftStencilKit](https://github.com/ivantokar/swift-stencil-kit)
+**[SwiftStencilKit](https://github.com/ivantokar/swift-stencil-kit)**
 Swift templating utilities for code generation and scaffolding workflows.
 
-##### [Prompt](https://github.com/ivantokar/prompt)
+**[Prompt](https://github.com/ivantokar/prompt)**
 Reusable components for building interactive Swift CLI applications.
 
 ## What I’m Into
