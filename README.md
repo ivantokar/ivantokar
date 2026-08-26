@@ -54,6 +54,11 @@ local-first software · AI-assisted development
 How GitLab lost its production database, discovered that several backup systems
 were not actually usable, and was saved by a staging snapshot made six hours earlier.
 
+[Evolve, Don’t Fear: A Developer’s Manifesto](https://ivantokar.com/posts/evolve-dont-fear-a-developers-manifesto)
+
+Why AI feels less like a threat and more like the next step in a long history
+of automation that has always pushed developers toward more interesting work.
+
 ## Elsewhere
 
 [ivantokar.com](https://ivantokar.com) · [X](https://x.com/ivatokar) · [LinkedIn](https://www.linkedin.com/in/ivantokar)
