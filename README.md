@@ -49,6 +49,17 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
+[Every Option Expands the Product’s State Space](https://ivantokar.com/posts/every-option-expands-product-state-space)
+
+A small setting can create much more than one extra branch. Every option expands
+the product state space—and the cost of owning it.
+
+[Three Data Centers, One Failure Domain: The Cloudflare Outage](https://ivantokar.com/posts/three-data-centers-one-failure-domain-cloudflare-outage)
+
+Cloudflare designed its control plane to survive the loss of a data center. A real
+outage showed that redundancy ends where a critical dependency still shares the same
+failure domain.
+
 [A Backup You Haven’t Restored Is Just a Hypothesis: The GitLab Database Outage](https://ivantokar.com/posts/a-backup-you-havent-restored-is-just-a-hypothesis-the-gitlab-database-outage)
 
 How GitLab lost its production database, discovered that several backup systems
@@ -61,4 +72,4 @@ of automation that has always pushed developers toward more interesting work.
 
 ## Elsewhere
 
-[ivantokar.com](https://ivantokar.com) · [X](https://x.com/ivatokar) · [LinkedIn](https://www.linkedin.com/in/ivantokar)
+[ivantokar.com](https://ivantokar.com) · [X](https://x.com/ivatokar) · [LinkedIn](https://www.linkedin.com/in/ivantokar) · [Bluesky](https://bsky.app/profile/ivantokar.bsky.social) · [Mastodon](https://mastodon.social/@ivantokar) · [Threads](https://www.threads.com/@ivan.tokar) · [Reddit](https://www.reddit.com/user/ivantokar/)
