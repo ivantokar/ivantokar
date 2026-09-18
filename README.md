@@ -1,11 +1,9 @@
 # Hi, I’m Ivan.
 
-**Senior Full-Stack / Product Engineer**
+**Full-Stack & Product Engineer. Swift on Server · macOS/iOS · Web. Building products and OSS.**
 
-I work end-to-end, from product and design to production.
-
-I make software I want to use. Products, native apps, developer tools, and OSS.
-Simplicity, good UX & DX. Always building something.
+I build software end-to-end, from product and design to production.
+Native apps, web products, developer tools, and open source. I care about simplicity and good UX & DX.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Vapor](https://img.shields.io/badge/-Vapor-7B61FF?style=flat-square&logo=swift&logoColor=white)
