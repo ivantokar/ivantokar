@@ -40,6 +40,9 @@ Swift templating utilities for code generation and scaffolding workflows.
 **[Prompt](https://github.com/ivantokar/prompt)**
 Reusable components for building interactive Swift CLI applications.
 
+**[DadModz](https://github.com/ivantokar/dadmodz)** 🐝
+Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minecraft has to deal with it.
+
 ## What I’m Into
 
 Developer experience · product design · software architecture · native apps · CLI tooling ·
@@ -47,10 +50,21 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
-[Every Option Expands the Product’s State Space](https://ivantokar.com/posts/every-option-expands-product-state-space)
+[swift-snapshot-testing: Snapshot Testing as a Composition of Transform and Diff](https://ivantokar.com/posts/swift-snapshot-testing-snapshot-testing-as-a-composition-of-transform-and-diff)
 
-A small setting can create much more than one extra branch. Every option expands
-the product state space—and the cost of owning it.
+A source-level look at how swift-snapshot-testing separates value transformation from diffing, and why that makes snapshot strategies reusable far beyond screenshots.
+
+[swift-http-types: Giving Swift a Shared Vocabulary for HTTP](https://ivantokar.com/posts/swift-http-types-giving-swift-a-shared-vocabulary-for-http/)
+
+A source-level look at how swift-http-types models HTTP messages, preserves protocol semantics, and bridges the same types into Foundation.
+
+[swift-jobs: Separating Job Semantics from Queue Storage](https://ivantokar.com/posts/swift-jobs-separating-job-semantics-from-queue-storage)
+
+A source-level look at how swift-jobs separates job definitions, processing policy, and queue storage while integrating retries, timeouts, and graceful shutdown.
+
+[swift-service-lifecycle: Making Service Lifetime Part of Swift Structured Concurrency](https://ivantokar.com/posts/swift-service-lifecycle-making-service-lifetime-part-of-swift-structured-concurrency/)
+
+A source-level look at how swift-service-lifecycle owns long-running Swift services, coordinates shutdown, and fits structured concurrency.
 
 [Three Data Centers, One Failure Domain: The Cloudflare Outage](https://ivantokar.com/posts/three-data-centers-one-failure-domain-cloudflare-outage)
 
