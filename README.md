@@ -50,37 +50,25 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
-[swift-snapshot-testing: Snapshot Testing as a Composition of Transform and Diff](https://ivantokar.com/posts/swift-snapshot-testing-snapshot-testing-as-a-composition-of-transform-and-diff)
+[GRDB: Turning SQLite Queries into Live Application State](https://ivantokar.com/posts/grdb-turning-sqlite-queries-into-live-application-state/)
+
+A source-level look at how GRDB turns SQLite query regions and transaction events into live application state.
+
+[Tuples: Group Values Without Creating a Type](https://ivantokar.com/posts/tuples-group-values-without-creating-a-type/)
+
+Swift tuples give a few related values a useful local shape without forcing every temporary relationship into a new named type.
+
+[swift-dependencies: Dependency Injection with Task-Local Values](https://ivantokar.com/posts/swift-dependencies-dependency-injection-with-task-local-values/)
+
+A source-level look at how swift-dependencies scopes dependency values with TaskLocal state, makes overrides testable, and integrates the same model with SwiftUI.
+
+[swift-snapshot-testing: Snapshot Testing as a Composition of Transform and Diff](https://ivantokar.com/posts/swift-snapshot-testing-snapshot-testing-as-a-composition-of-transform-and-diff/)
 
 A source-level look at how swift-snapshot-testing separates value transformation from diffing, and why that makes snapshot strategies reusable far beyond screenshots.
 
 [swift-http-types: Giving Swift a Shared Vocabulary for HTTP](https://ivantokar.com/posts/swift-http-types-giving-swift-a-shared-vocabulary-for-http/)
 
 A source-level look at how swift-http-types models HTTP messages, preserves protocol semantics, and bridges the same types into Foundation.
-
-[swift-jobs: Separating Job Semantics from Queue Storage](https://ivantokar.com/posts/swift-jobs-separating-job-semantics-from-queue-storage)
-
-A source-level look at how swift-jobs separates job definitions, processing policy, and queue storage while integrating retries, timeouts, and graceful shutdown.
-
-[swift-service-lifecycle: Making Service Lifetime Part of Swift Structured Concurrency](https://ivantokar.com/posts/swift-service-lifecycle-making-service-lifetime-part-of-swift-structured-concurrency/)
-
-A source-level look at how swift-service-lifecycle owns long-running Swift services, coordinates shutdown, and fits structured concurrency.
-
-[Three Data Centers, One Failure Domain: The Cloudflare Outage](https://ivantokar.com/posts/three-data-centers-one-failure-domain-cloudflare-outage)
-
-Cloudflare designed its control plane to survive the loss of a data center. A real
-outage showed that redundancy ends where a critical dependency still shares the same
-failure domain.
-
-[A Backup You Haven’t Restored Is Just a Hypothesis: The GitLab Database Outage](https://ivantokar.com/posts/a-backup-you-havent-restored-is-just-a-hypothesis-the-gitlab-database-outage)
-
-How GitLab lost its production database, discovered that several backup systems
-were not actually usable, and was saved by a staging snapshot made six hours earlier.
-
-[Evolve, Don’t Fear: A Developer’s Manifesto](https://ivantokar.com/posts/evolve-dont-fear-a-developers-manifesto)
-
-Why AI feels less like a threat and more like the next step in a long history
-of automation that has always pushed developers toward more interesting work.
 
 ## Elsewhere
 
