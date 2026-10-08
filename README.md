@@ -50,25 +50,25 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
-[GRDB: Turning SQLite Queries into Live Application State](https://ivantokar.com/posts/grdb-turning-sqlite-queries-into-live-application-state/)
+[guard: Keep the Main Path Flat](https://ivantokar.com/posts/guard-keep-the-main-path-flat/)
 
-A source-level look at how GRDB turns SQLite query regions and transaction events into live application state.
+Use Swift guard to state requirements early, keep successful optional bindings in scope, and leave the main path easy to follow.
 
-[Tuples: Group Values Without Creating a Type](https://ivantokar.com/posts/tuples-group-values-without-creating-a-type/)
+[File Identity Is Not Content Identity: How ReadMachine Uses BLAKE3](https://ivantokar.com/posts/file-identity-is-not-content-identity-how-readmachine-uses-blake3/)
 
-Swift tuples give a few related values a useful local shape without forcing every temporary relationship into a new named type.
+ReadMachine separates filesystem reconciliation, document preparation, and content fingerprinting so each stage solves a different problem.
 
-[swift-dependencies: Dependency Injection with Task-Local Values](https://ivantokar.com/posts/swift-dependencies-dependency-injection-with-task-local-values/)
+[Nuke: Coalescing Image Work Across Swift Concurrency](https://ivantokar.com/posts/nuke-coalescing-image-work-across-swift-concurrency/)
 
-A source-level look at how swift-dependencies scopes dependency values with TaskLocal state, makes overrides testable, and integrates the same model with SwiftUI.
+A source-level look at how Nuke shares downloads, decoding, and image processing across concurrent requests without tying cancellation to a single caller.
 
-[swift-snapshot-testing: Snapshot Testing as a Composition of Transform and Diff](https://ivantokar.com/posts/swift-snapshot-testing-snapshot-testing-as-a-composition-of-transform-and-diff/)
+[The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers](https://ivantokar.com/posts/the-limit-that-wasnt-a-limit-swiftnios-unbounded-http-headers/)
 
-A source-level look at how swift-snapshot-testing separates value transformation from diffing, and why that makes snapshot strategies reusable far beyond screenshots.
+A SwiftNIO parser migration kept HTTP working but silently lost an old resource limit, years before the missing invariant returned as a security issue.
 
-[swift-http-types: Giving Swift a Shared Vocabulary for HTTP](https://ivantokar.com/posts/swift-http-types-giving-swift-a-shared-vocabulary-for-http/)
+[Swift Collections: Why Deque Uses a Ring Buffer](https://ivantokar.com/posts/swift-collections-why-deque-uses-a-ring-buffer/)
 
-A source-level look at how swift-http-types models HTTP messages, preserves protocol semantics, and bridges the same types into Foundation.
+A source-level look at how Swift Collections implements Deque with circular storage, copy-on-write value semantics, and familiar integer indexing.
 
 ## Elsewhere
 
