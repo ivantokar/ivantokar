@@ -50,6 +50,14 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
+[Optional Binding: Turn an Optional Into a Value](https://ivantokar.com/posts/optional-binding-turn-an-optional-into-a-value/)
+
+Learn how Swift optional binding creates safe local values, combines checks, and controls where unwrapped values are available.
+
+[Swift Argument Parser: One Model for CLI Commands](https://ivantokar.com/posts/swift-argument-parser-one-model-for-cli-commands/)
+
+A source-level look at how Swift Argument Parser turns property wrappers and command types into parsing rules, validation, usage, and help.
+
 [guard: Keep the Main Path Flat](https://ivantokar.com/posts/guard-keep-the-main-path-flat/)
 
 Use Swift guard to state requirements early, keep successful optional bindings in scope, and leave the main path easy to follow.
@@ -61,14 +69,6 @@ ReadMachine separates filesystem reconciliation, document preparation, and conte
 [Nuke: Coalescing Image Work Across Swift Concurrency](https://ivantokar.com/posts/nuke-coalescing-image-work-across-swift-concurrency/)
 
 A source-level look at how Nuke shares downloads, decoding, and image processing across concurrent requests without tying cancellation to a single caller.
-
-[The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers](https://ivantokar.com/posts/the-limit-that-wasnt-a-limit-swiftnios-unbounded-http-headers/)
-
-A SwiftNIO parser migration kept HTTP working but silently lost an old resource limit, years before the missing invariant returned as a security issue.
-
-[Swift Collections: Why Deque Uses a Ring Buffer](https://ivantokar.com/posts/swift-collections-why-deque-uses-a-ring-buffer/)
-
-A source-level look at how Swift Collections implements Deque with circular storage, copy-on-write value semantics, and familiar integer indexing.
 
 ## Elsewhere
 
