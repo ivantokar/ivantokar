@@ -50,25 +50,25 @@ local-first software · AI-assisted development
 
 ## Latest Writing
 
-[Optional Binding: Turn an Optional Into a Value](https://ivantokar.com/posts/optional-binding-turn-an-optional-into-a-value/)
+[SwiftUI Introspect: Finding Views Without Private APIs](https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/)
 
-Learn how Swift optional binding creates safe local values, combines checks, and controls where unwrapped values are available.
+How SwiftUI Introspect finds the right UIKit or AppKit view with paired markers, bounded traversal, and explicit OS version rules.
 
-[Swift Argument Parser: One Model for CLI Commands](https://ivantokar.com/posts/swift-argument-parser-one-model-for-cli-commands/)
+[Optional Chaining: Let Absence Flow Through an Expression](https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/)
 
-A source-level look at how Swift Argument Parser turns property wrappers and command types into parsing rules, validation, usage, and help.
+Follow optional values through Swift properties, calls, and subscripts—and learn what optional chaining skips, returns, and cannot protect.
 
-[guard: Keep the Main Path Flat](https://ivantokar.com/posts/guard-keep-the-main-path-flat/)
+[swift-async-algorithms: Backpressure at the Handoff](https://ivantokar.com/posts/swift-async-algorithms-backpressure-at-the-handoff/)
 
-Use Swift guard to state requirements early, keep successful optional bindings in scope, and leave the main path easy to follow.
+How AsyncChannel makes Swift producers wait for demand, handles cancellation races, and differs from buffered streams.
 
-[File Identity Is Not Content Identity: How ReadMachine Uses BLAKE3](https://ivantokar.com/posts/file-identity-is-not-content-identity-how-readmachine-uses-blake3/)
+[GRDB at the Boundary Between Files and App State](https://ivantokar.com/posts/grdb-at-the-boundary-between-files-and-app-state/)
 
-ReadMachine separates filesystem reconciliation, document preparation, and content fingerprinting so each stage solves a different problem.
+Why ReadMachine keeps documents on disk, uses GRDB for durable app state, and treats SQLite transactions and file operations differently.
 
-[Nuke: Coalescing Image Work Across Swift Concurrency](https://ivantokar.com/posts/nuke-coalescing-image-work-across-swift-concurrency/)
+[swift-format: From Syntax Trees to Readable Code](https://ivantokar.com/posts/swift-format-from-syntax-trees-to-readable-code/)
 
-A source-level look at how Nuke shares downloads, decoding, and image processing across concurrent requests without tying cancellation to a single caller.
+Why swift-format needs syntax trees, rewriting rules, and a pretty printer, and why linting takes a different path.
 
 ## Elsewhere
 
