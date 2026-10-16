@@ -79,23 +79,23 @@ Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minec
 
 ## Latest Writing
 
-[SwiftUI Introspect: Finding Views Without Private APIs](https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/)
+✍️ [SwiftUI Introspect: Finding Views Without Private APIs](https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/)
 
 How SwiftUI Introspect finds the right UIKit or AppKit view with paired markers, bounded traversal, and explicit OS version rules.
 
-[Optional Chaining: Let Absence Flow Through an Expression](https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/)
+✍️ [Optional Chaining: Let Absence Flow Through an Expression](https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/)
 
 Follow optional values through Swift properties, calls, and subscripts—and learn what optional chaining skips, returns, and cannot protect.
 
-[swift-async-algorithms: Backpressure at the Handoff](https://ivantokar.com/posts/swift-async-algorithms-backpressure-at-the-handoff/)
+✍️ [swift-async-algorithms: Backpressure at the Handoff](https://ivantokar.com/posts/swift-async-algorithms-backpressure-at-the-handoff/)
 
 How AsyncChannel makes Swift producers wait for demand, handles cancellation races, and differs from buffered streams.
 
-[GRDB at the Boundary Between Files and App State](https://ivantokar.com/posts/grdb-at-the-boundary-between-files-and-app-state/)
+✍️ [GRDB at the Boundary Between Files and App State](https://ivantokar.com/posts/grdb-at-the-boundary-between-files-and-app-state/)
 
 Why ReadMachine keeps documents on disk, uses GRDB for durable app state, and treats SQLite transactions and file operations differently.
 
-[swift-format: From Syntax Trees to Readable Code](https://ivantokar.com/posts/swift-format-from-syntax-trees-to-readable-code/)
+✍️ [swift-format: From Syntax Trees to Readable Code](https://ivantokar.com/posts/swift-format-from-syntax-trees-to-readable-code/)
 
 Why swift-format needs syntax trees, rewriting rules, and a pretty printer, and why linting takes a different path.
 
