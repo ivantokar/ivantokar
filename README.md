@@ -19,7 +19,7 @@ Native apps, web products, developer tools, and open source. I care about simpli
 
 ## Start Here
 
-🖼️ **[Hokusai](https://github.com/ivantokar/hokusai)**
+🎨 **[Hokusai](https://github.com/ivantokar/hokusai)**
 High-performance image processing for Swift, powered by libvips.
 Originally built to solve a production need and now developed as a standalone Swift library and CLI.
 
@@ -37,7 +37,7 @@ with a focus on DDD, developer experience, and repeatable project setup.
 🧩 **[SwiftStencilKit](https://github.com/ivantokar/swift-stencil-kit)**
 Swift templating utilities for code generation and scaffolding workflows.
 
-💻 **[Prompt](https://github.com/ivantokar/prompt)**
+🖥️ **[Prompt](https://github.com/ivantokar/prompt)**
 Reusable components for building interactive Swift CLI applications.
 
 🐝 **[DadModz](https://github.com/ivantokar/dadmodz)**
