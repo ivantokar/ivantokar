@@ -43,10 +43,39 @@ Reusable components for building interactive Swift CLI applications.
 **[DadModz](https://github.com/ivantokar/dadmodz)** 🐝
 Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minecraft has to deal with it.
 
-## What I’m Into
+## Series
 
-Developer experience · product design · software architecture · native apps · CLI tooling ·
-local-first software · AI-assisted development
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://ivantokar.com/series/molecules-of-swift/"><img src="https://ivantokar.com/blog/molecules-of-swift-hero-005.webp" alt="Optional Chaining: Let Absence Flow Through an Expression" width="100%"></a>
+      <br>
+      <b><a href="https://ivantokar.com/series/molecules-of-swift/">Molecules of Swift</a></b>
+      <br>
+      A small piece of Swift, taken apart.
+      <br><br>
+      <sub>Latest: <a href="https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/">Optional Chaining: Let Absence Flow Through an Expression</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/"><img src="https://ivantokar.com/blog/daily-almost-swift-open-source-overview-hero-012.webp" alt="SwiftUI Introspect: Finding Views Without Private APIs" width="100%"></a>
+      <br>
+      <b><a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/">Daily (almost) Swift Open Source Overview</a></b>
+      <br>
+      Swift open source, read from the source.
+      <br><br>
+      <sub>Latest: <a href="https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/">SwiftUI Introspect: Finding Views Without Private APIs</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://ivantokar.com/series/the-grey-rhino-files/"><img src="https://ivantokar.com/blog/the-gray-rhino-files-hero-003.webp" alt="The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers" width="100%"></a>
+      <br>
+      <b><a href="https://ivantokar.com/series/the-grey-rhino-files/">The Grey Rhino Files</a></b>
+      <br>
+      The obvious failures we chose to ignore.
+      <br><br>
+      <sub>Latest: <a href="https://ivantokar.com/posts/the-limit-that-wasnt-a-limit-swiftnios-unbounded-http-headers/">The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## Latest Writing
 
