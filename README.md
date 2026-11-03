@@ -25,7 +25,7 @@ Less typing. More thinking. Turn speech into text locally on your Mac, then refi
 📚 **[ReadMachine](https://tokrl.com/apps/readmachine/)**
 A local-first reading library for macOS, built around your own files.
 
-## Start Here
+## Open Source
 
 🎨 **[Hokusai](https://github.com/ivantokar/hokusai)**
 High-performance image processing for Swift, powered by libvips.
