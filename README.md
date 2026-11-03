@@ -17,6 +17,14 @@ Native apps, web products, developer tools, and open source. I care about simpli
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-121212?style=flat-square&logo=openai&logoColor=white)
 
+## Apps
+
+🎙️ **[Voqey](https://tokrl.com/apps/voqey/)**
+Less typing. More thinking. Turn speech into text locally on your Mac, then refine or translate it when you choose.
+
+📚 **[ReadMachine](https://tokrl.com/apps/readmachine/)**
+A local-first reading library for macOS, built around your own files.
+
 ## Start Here
 
 🎨 **[Hokusai](https://github.com/ivantokar/hokusai)**
@@ -48,56 +56,56 @@ Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minec
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://ivantokar.com/series/molecules-of-swift/"><img src="https://ivantokar.com/blog/molecules-of-swift-hero-005.webp" alt="Optional Chaining: Let Absence Flow Through an Expression" width="100%"></a>
+      <a href="https://ivantokar.com/series/molecules-of-swift/"><img src="https://ivantokar.com/blog/molecules-of-swift-hero-008.webp" alt="for case and where: Filter While You Iterate" width="100%"></a>
       <br>
       <b><a href="https://ivantokar.com/series/molecules-of-swift/">Molecules of Swift</a></b>
       <br>
       A small piece of Swift, taken apart.
       <br><br>
-      <sub>Latest: <a href="https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/">Optional Chaining: Let Absence Flow Through an Expression</a></sub>
+      <sub>Latest: <a href="https://ivantokar.com/posts/for-case-and-where-filter-while-you-iterate/">for case and where: Filter While You Iterate</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/"><img src="https://ivantokar.com/blog/daily-almost-swift-open-source-overview-hero-012.webp" alt="SwiftUI Introspect: Finding Views Without Private APIs" width="100%"></a>
+      <a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/"><img src="https://ivantokar.com/blog/daily-almost-swift-open-source-overview-hero-014.webp" alt="Swift Algorithms: Sliding Windows Without Copies" width="100%"></a>
       <br>
       <b><a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/">Daily (almost) Swift Open Source Overview</a></b>
       <br>
       Swift open source, read from the source.
       <br><br>
-      <sub>Latest: <a href="https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/">SwiftUI Introspect: Finding Views Without Private APIs</a></sub>
+      <sub>Latest: <a href="https://ivantokar.com/posts/swift-algorithms-sliding-windows-without-copies/">Swift Algorithms: Sliding Windows Without Copies</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://ivantokar.com/series/the-grey-rhino-files/"><img src="https://ivantokar.com/blog/the-gray-rhino-files-hero-003.webp" alt="The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers" width="100%"></a>
+      <a href="https://ivantokar.com/series/the-grey-rhino-files/"><img src="https://ivantokar.com/blog/the-gray-rhino-files-hero-004.webp" alt="The 21st Field: CrowdStrike’s Windows Outage" width="100%"></a>
       <br>
       <b><a href="https://ivantokar.com/series/the-grey-rhino-files/">The Grey Rhino Files</a></b>
       <br>
       The obvious failures we chose to ignore.
       <br><br>
-      <sub>Latest: <a href="https://ivantokar.com/posts/the-limit-that-wasnt-a-limit-swiftnios-unbounded-http-headers/">The Limit That Wasn’t a Limit: SwiftNIO’s Unbounded HTTP Headers</a></sub>
+      <sub>Latest: <a href="https://ivantokar.com/posts/the-21st-field-crowdstrikes-windows-outage/">The 21st Field: CrowdStrike’s Windows Outage</a></sub>
     </td>
   </tr>
 </table>
 
 ## Latest Writing
 
-📃 [SwiftUI Introspect: Finding Views Without Private APIs](https://ivantokar.com/posts/swiftui-introspect-finding-views-without-private-apis/)
+📃 [for case and where: Filter While You Iterate](https://ivantokar.com/posts/for-case-and-where-filter-while-you-iterate/)
 
-How SwiftUI Introspect finds the right UIKit or AppKit view with paired markers, bounded traversal, and explicit OS version rules.
+Use Swift for case to select matching values during iteration, bind associated data, and add precise where conditions without hiding the loop’s intent.
 
-📃 [Optional Chaining: Let Absence Flow Through an Expression](https://ivantokar.com/posts/optional-chaining-let-absence-flow-through-an-expression/)
+📃 [The 21st Field: CrowdStrike’s Windows Outage](https://ivantokar.com/posts/the-21st-field-crowdstrikes-windows-outage/)
 
-Follow optional values through Swift properties, calls, and subscripts—and learn what optional chaining skips, returns, and cannot protect.
+How one matching rule exposed a five-month-old input mismatch in CrowdStrike Falcon and turned a rapid content update into a Windows crash.
 
-📃 [swift-async-algorithms: Backpressure at the Handoff](https://ivantokar.com/posts/swift-async-algorithms-backpressure-at-the-handoff/)
+📃 [if case and guard case: Match One Shape Without a switch](https://ivantokar.com/posts/if-case-and-guard-case-match-one-shape-without-a-switch/)
 
-How AsyncChannel makes Swift producers wait for demand, handles cancellation races, and differs from buffered streams.
+Match one Swift enum case, bind its associated values, add conditions, and decide when guard case or an exhaustive switch is clearer.
 
-📃 [GRDB at the Boundary Between Files and App State](https://ivantokar.com/posts/grdb-at-the-boundary-between-files-and-app-state/)
+📃 [Swift Algorithms: Sliding Windows Without Copies](https://ivantokar.com/posts/swift-algorithms-sliding-windows-without-copies/)
 
-Why ReadMachine keeps documents on disk, uses GRDB for durable app state, and treats SQLite transactions and file operations differently.
+How swift-algorithms models overlapping collection slices with paired indexes.
 
-📃 [swift-format: From Syntax Trees to Readable Code](https://ivantokar.com/posts/swift-format-from-syntax-trees-to-readable-code/)
+📃 [Nil Coalescing: Provide Defaults Without Branching](https://ivantokar.com/posts/nil-coalescing-provide-defaults-without-branching/)
 
-Why swift-format needs syntax trees, rewriting rules, and a pretty printer, and why linting takes a different path.
+See how Swift’s nil-coalescing operator chooses defaults lazily, composes with optional chaining, and differs from validation and dictionary insertion.
 
 ## Elsewhere
 
