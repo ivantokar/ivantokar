@@ -42,12 +42,7 @@ Originally built to solve a production need, now a standalone Swift library and 
 | 🐦 [hokusai-hummingbird](https://github.com/ivantokar/hokusai-hummingbird) | Hummingbird integration |
 | 📖 [hokusai-docs](https://github.com/ivantokar/hokusai-docs) | Source of the documentation site |
 | 🧪 [hokusai-examples](https://github.com/ivantokar/hokusai-examples) | Runnable examples |
-
-Install the CLI with Homebrew:
-
-```bash
-brew install ivantokar/tap/hokusai
-```
+| 🍺 [homebrew-tap](https://github.com/ivantokar/homebrew-tap) | Homebrew formulae for the CLI |
 
 ## Mage
 
@@ -58,13 +53,6 @@ with a focus on DDD, developer experience, and repeatable project setup.
 > ⚠️ Early stage of development. APIs and behavior will change, and it is not ready for production use.
 
 ## Open Source
-
-🍺 **[Homebrew tap](https://github.com/ivantokar/homebrew-tap)**
-One place for my CLI formulae: `brew install ivantokar/tap/<formula>`.
-
-| Formula | What it is |
-| --- | --- |
-| `hokusai` | [Hokusai CLI](https://github.com/ivantokar/hokusai): image processing powered by libvips. [Docs](https://ivantokar.com/oss/hokusai/) |
 
 🧭 **[xmap.nvim](https://github.com/ivantokar/xmap.nvim)**
 A fast minimap for Neovim focused on code navigation, symbols,
