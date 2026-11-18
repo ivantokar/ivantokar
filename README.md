@@ -25,14 +25,26 @@ Less typing. More thinking. Turn speech into text locally on your Mac, then refi
 📚 **[ReadMachine](https://tokrl.com/apps/readmachine/)**
 A local-first reading library for macOS, built around your own files.
 
+🐙 **[Octopulse](https://tokrl.com/apps/octopulse/)**
+A read-only GitHub monitor for the macOS menu bar: workflow runs, pull requests, issues and stars at a glance.
+
+## Hokusai
+
+**High-performance image processing for Swift, powered by libvips.**
+Originally built to solve a production need, now a standalone Swift library and CLI with server integrations.
+
+📖 **[Documentation](https://ivantokar.com/oss/hokusai/)** · 🎨 **[Library & CLI](https://github.com/ivantokar/hokusai)**
+
+| Repo | What it is |
+| --- | --- |
+| 🎨 [hokusai](https://github.com/ivantokar/hokusai) | Core Swift library and first-party CLI |
+| 💧 [hokusai-vapor](https://github.com/ivantokar/hokusai-vapor) | Vapor integration |
+| 🐦 [hokusai-hummingbird](https://github.com/ivantokar/hokusai-hummingbird) | Hummingbird integration |
+| 📖 [hokusai-docs](https://github.com/ivantokar/hokusai-docs) | Source of the documentation site |
+| 🧪 [hokusai-examples](https://github.com/ivantokar/hokusai-examples) | Runnable examples |
+| 🍺 [homebrew-tap](https://github.com/ivantokar/homebrew-tap) | Homebrew formulae for the CLI |
+
 ## Open Source
-
-🎨 **[Hokusai](https://github.com/ivantokar/hokusai)**
-High-performance image processing for Swift, powered by libvips.
-Originally built to solve a production need and now developed as a standalone Swift library and CLI.
-
-💧 **[HokusaiVapor](https://github.com/ivantokar/hokusai-vapor)**
-Vapor integration for Hokusai and server-side image processing workflows.
 
 🧭 **[xmap.nvim](https://github.com/ivantokar/xmap.nvim)**
 A fast minimap for Neovim focused on code navigation, symbols,
@@ -56,22 +68,22 @@ Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minec
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://ivantokar.com/series/molecules-of-swift/"><img src="https://ivantokar.com/blog/molecules-of-swift-hero-008.webp" alt="for case and where: Filter While You Iterate" width="100%"></a>
+      <a href="https://ivantokar.com/series/molecules-of-swift/"><img src="https://ivantokar.com/blog/molecules-of-swift-hero-010.webp" alt="Associated Values: Put Data Where It Belongs" width="100%"></a>
       <br>
       <b><a href="https://ivantokar.com/series/molecules-of-swift/">Molecules of Swift</a></b>
       <br>
       A small piece of Swift, taken apart.
       <br><br>
-      <sub>Latest: <a href="https://ivantokar.com/posts/for-case-and-where-filter-while-you-iterate/">for case and where: Filter While You Iterate</a></sub>
+      <sub>Latest: <a href="https://ivantokar.com/posts/associated-values-put-data-where-it-belongs/">Associated Values: Put Data Where It Belongs</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/"><img src="https://ivantokar.com/blog/daily-almost-swift-open-source-overview-hero-014.webp" alt="Swift Algorithms: Sliding Windows Without Copies" width="100%"></a>
+      <a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/"><img src="https://ivantokar.com/blog/daily-almost-swift-open-source-overview-hero-016.webp" alt="Swift Log: Why Context Metadata Belongs at the Logging Boundary" width="100%"></a>
       <br>
       <b><a href="https://ivantokar.com/series/daily-almost-swift-open-source-overview/">Daily (almost) Swift Open Source Overview</a></b>
       <br>
       Swift open source, read from the source.
       <br><br>
-      <sub>Latest: <a href="https://ivantokar.com/posts/swift-algorithms-sliding-windows-without-copies/">Swift Algorithms: Sliding Windows Without Copies</a></sub>
+      <sub>Latest: <a href="https://ivantokar.com/posts/swift-log-context-metadata-at-the-logging-boundary/">Swift Log: Why Context Metadata Belongs at the Logging Boundary</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://ivantokar.com/series/the-grey-rhino-files/"><img src="https://ivantokar.com/blog/the-gray-rhino-files-hero-004.webp" alt="The 21st Field: CrowdStrike’s Windows Outage" width="100%"></a>
@@ -87,26 +99,26 @@ Minecraft Bedrock add-ons built from my kids’ ideas. My kids have ideas. Minec
 
 ## Latest Writing
 
+📃 [Associated Values: Put Data Where It Belongs](https://ivantokar.com/posts/associated-values-put-data-where-it-belongs/)
+
+Model Swift enum cases with their own data, extract associated values with patterns, and understand what this design does and does not guarantee.
+
+📃 [Swift Log: Why Context Metadata Belongs at the Logging Boundary](https://ivantokar.com/posts/swift-log-context-metadata-at-the-logging-boundary/)
+
+How Swift Log combines stable logger metadata, runtime providers, and per-event overrides without coupling application code to a backend.
+
+📃 [switch: Let Exhaustiveness Work for You](https://ivantokar.com/posts/switch-let-exhaustiveness-work-for-you/)
+
+Use exhaustive Swift switch matching to model every state, bind associated values, and understand when a default branch hides changes.
+
+📃 [SwiftNIO: Why ByteBuffer Has Two Cursors](https://ivantokar.com/posts/swiftnio-why-bytebuffer-has-two-cursors/)
+
+How separate reader and writer indexes make partial network messages manageable.
+
 📃 [for case and where: Filter While You Iterate](https://ivantokar.com/posts/for-case-and-where-filter-while-you-iterate/)
 
 Use Swift for case to select matching values during iteration, bind associated data, and add precise where conditions without hiding the loop’s intent.
 
-📃 [The 21st Field: CrowdStrike’s Windows Outage](https://ivantokar.com/posts/the-21st-field-crowdstrikes-windows-outage/)
-
-How one matching rule exposed a five-month-old input mismatch in CrowdStrike Falcon and turned a rapid content update into a Windows crash.
-
-📃 [if case and guard case: Match One Shape Without a switch](https://ivantokar.com/posts/if-case-and-guard-case-match-one-shape-without-a-switch/)
-
-Match one Swift enum case, bind its associated values, add conditions, and decide when guard case or an exhaustive switch is clearer.
-
-📃 [Swift Algorithms: Sliding Windows Without Copies](https://ivantokar.com/posts/swift-algorithms-sliding-windows-without-copies/)
-
-How swift-algorithms models overlapping collection slices with paired indexes.
-
-📃 [Nil Coalescing: Provide Defaults Without Branching](https://ivantokar.com/posts/nil-coalescing-provide-defaults-without-branching/)
-
-See how Swift’s nil-coalescing operator chooses defaults lazily, composes with optional chaining, and differs from validation and dictionary insertion.
-
 ## Elsewhere
 
-[ivantokar.com](https://ivantokar.com) · [X](https://x.com/ivatokar) · [LinkedIn](https://www.linkedin.com/in/ivantokar) · [Bluesky](https://bsky.app/profile/ivantokar.bsky.social) · [Mastodon](https://mastodon.social/@ivantokar) · [Threads](https://www.threads.com/@ivan.tokar) · [Reddit](https://www.reddit.com/user/ivantokar/)
+[ivantokar.com](https://ivantokar.com) · [tokrl.com](https://tokrl.com) · [X](https://x.com/ivatokar) · [LinkedIn](https://www.linkedin.com/in/ivantokar) · [Bluesky](https://bsky.app/profile/ivantokar.bsky.social) · [Mastodon](https://mastodon.social/@ivantokar) · [Threads](https://www.threads.com/@ivan.tokar) · [Reddit](https://www.reddit.com/user/ivantokar/)
