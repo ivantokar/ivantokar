@@ -49,6 +49,14 @@ Install the CLI with Homebrew:
 brew install ivantokar/tap/hokusai
 ```
 
+## Mage
+
+🧙 **[Mage](https://github.com/ivantokar/mage)**
+Project scaffolding and architecture tooling for server-side Swift,
+with a focus on DDD, developer experience, and repeatable project setup.
+
+> ⚠️ Early stage of development. APIs and behavior will change, and it is not ready for production use.
+
 ## Open Source
 
 🍺 **[Homebrew tap](https://github.com/ivantokar/homebrew-tap)**
@@ -61,10 +69,6 @@ One place for my CLI formulae: `brew install ivantokar/tap/<formula>`.
 🧭 **[xmap.nvim](https://github.com/ivantokar/xmap.nvim)**
 A fast minimap for Neovim focused on code navigation, symbols,
 structural highlights, comments, markers, and jump navigation.
-
-🧙 **[Mage](https://github.com/ivantokar/mage)**
-Project scaffolding and architecture tooling for server-side Swift,
-with a focus on DDD, developer experience, and repeatable project setup.
 
 🧩 **[SwiftStencilKit](https://github.com/ivantokar/swift-stencil-kit)**
 Swift templating utilities for code generation and scaffolding workflows.
